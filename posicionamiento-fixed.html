@@ -6,65 +6,112 @@
     <title>Posicionamiento Fixed</title>
 
     <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: rgb(210, 210, 230);
+        }
+
+        section{
+            padding: 0px 65px;
+        }
+
+        header{
+            position: fixed;
+            top: 0;
+            background-color: rgb(34, 34, 87);
+            color: white;
+            font-size: 24pt;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+
+        h1{
+            background-color: rgb(34, 34, 87);
+            color: white;
+            font-size: 24pt;
+            font-weight: bold;
+            text-align: center;
+            margin: 70px 0px 30px 0px;
+        }
         
+        div{
+            background-color: white;
+            margin: 20px 0px;
+            border-radius: 4px;
+            
+        }
+
+        .contenido{
+            
+        }
+
+        .sub-seccion{
+            background-color: rgb(103, 177, 103);
+            border-radius: 4px 4px 0px 0px;
+            color: white;
+            font-size: 16pt;
+            font-weight: bold;
+        }
     </style>
 </head>
 
 <body>
     <header>Software libre</header>
-
+    
+    <section>
     <h1>Escritorio</h1>
 
+    <section class="contenido">
     <div>
-        7-zip
+        <div class="sub-seccion">7-zip</div>
 
-        7-zip es un compresor/descompresor de archivos que maneja los formatos ZIP, RAR, CAB, GZIP, BZIP2 y TAR, así como un
-        formato propio, 7z.
+        <div class="sub-contenido"> 7-zip es un compresor/descompresor de archivos que maneja los formatos ZIP, RAR, CAB, GZIP, BZIP2 y TAR, así como un
+        formato propio, 7z.</div>
     </div>
 
     <div>
-        Audacity
+        <div class="sub-seccion">Audacity</div>
 
         Audacity es un editor de audio. Permite reproducir, grabar, editar, mezclar, aplicar efectos, etc.</div>
 
     <div>
-        GIMP
+        <div class="sub-seccion">GIMP</div>
 
         GIMP (GNU Image Manipulation Program) es un programa de retoque fotográfico y composición y edición de imágenes.
     </div>
 
     <div>
-        Inkscape
+        <div class="sub-seccion">Inkscape</div>
 
         Inkscape es un editor de gráficos vectoriales que utiliza el formato SVG y que también importa formatos como Postscript, EPS, JPEG, PNG, y TIFF y exporta en PNG y varios formatos vectoriales.
     </div>
 
     <div>
-        LibreOffice
+        <div class="sub-seccion">LibreOffice</div>
 
          LibreOffice es una suite ofimática completa compuesta de procesador de textos, hoja de cálculo, presentaciones,
          programa de dibujo, base de datos y editor de ecuaciones.
     </div>
 
     <div>
-        Scribus
+        <div class="sub-seccion">Scribus</div>
 
          Scribus es un programa de maquetación de documentos (en inglés, DeskTop Publishing o DTP).
     </div>
 
     <div>
-        ShareX
+        <div class="sub-seccion">ShareX</div>
 
          ShareX es un capturador de pantallas o vídeo capaz de capturar el escritorio completo, ventanas o diferentes figuras geométricas (rectángulos, círculos, etc.) y copiarlo al portapapeles, al disco duro o subirlo a sitios de Internet.
     </div>
 
     <div>
-        Sumatra PDF
+        <div class="sub-seccion">Sumatra PDF</div>
         Sumatra PDF es un visualizador de documentos PDF minimalista, que permite ver e imprimir los documentos PDF.
     </div>
 
     <div>
-        VLC media player
+        <div class="sub-seccion">VLC media player</div>
         VideoLAN Media Player es un reproductor multimedia que reproduce numerosos formatos de audio y vídeo, así como DVDs,
         VCDs y varios protocolos de streaming. También puede utilizarse como servidor unicast o multicast en IPv4 o IPv6.
     </div>
@@ -72,31 +119,35 @@
     <h1>Internet</h1>
 
     <div>
-        FileZilla
+        <div class="sub-seccion">FileZilla</div>
         FileZilla es un cliente de FTP.
     </div>
 
     <div>
-        Firefox
+        <div class="sub-seccion">Firefox</div>
         Firefox es un navegador web altamente personalizable y ampliable mediante los cientos de extensiones y temas
         disponibles.
     </div>
 
     <div>
-        HTTrack
+        <div class="sub-seccion">HTTrack</div>
         HTTrack permite descargar sitios webs completos para su consulta offline.
     </div>
 
-    Pidgin
+    <div>
+        <div class="sub-seccion">Pidgin</div>
 
-    Pidgin es un cliente de mensajería instantánea, compatible con las redes ICQ, IRC, Jabber, Gadu-Gadu, Zephyr y
-    otras.
+        Pidgin es un cliente de mensajería instantánea, compatible con las redes ICQ, IRC, Jabber, Gadu-Gadu, Zephyr y
+        otras.
+    </div>
 
     <div>
-        Thunderbird
+        <div class="sub-seccion">Thunderbird</div>
         Thunderbird es un cliente de correo de los creadores de Firefox. Incorpora multitud de características avanzadas y,
         como Firefox, puede personalizarse mediante temas y ampliar sus posibilidades mediante extensiones.
     </div>
+    </section>
+    </section>
 </body>
 
 </html>
