@@ -12,6 +12,7 @@ Los siguientes ejercicios van sobre el posicionamiento CSS. Consulta este [enlac
 ## Flotacion
 
 1. Define un DIV para cada caja. Dale estilos hasta que te queden un conjunto de cajas en vertical. Luego, usa adecuadamente _float_ para hacer que todas la cajas _floten_ a la izquierda.
+![screencapture-mclibre-org-consultar-htmlcss-ejercicios-posicionamiento-flotante-oscar-wilde-oscar-wilde-formateado-html-2023-09-27-08_30_56](https://github.com/omiras/posicionamiento-css-PIMEC/assets/3286458/c0c61e95-08d7-4aeb-b7e6-30574d9bf20a)
 
 ## Posicionamiento-absoluto
 
@@ -21,6 +22,7 @@ Los siguientes ejercicios van sobre el posicionamiento CSS. Consulta este [enlac
 ## Posicionamiento-fixed
 
 1. El header superior tiene un posicionamiento _fixed_ . Fíjate en este [vídeo](https://oscarm.tinytake.com/msc/ODczNTkyN18yMjEzODc0NA) cómo debe quedar.
+![screencapture-mclibre-org-consultar-htmlcss-ejercicios-posicionamiento-fijo-software-libre-2-software-libre-2-formateado-html-2023-09-27-08_02_56](https://github.com/omiras/posicionamiento-css-PIMEC/assets/3286458/09405c2f-ae6a-4a96-af3e-35b38b0966c4)
 
 ## Posicionamiento-sticky
 
