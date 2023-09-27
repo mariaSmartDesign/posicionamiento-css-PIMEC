@@ -2,6 +2,13 @@
 
 Los siguientes ejercicios van sobre el posicionamiento CSS. Consulta este [enlace](https://www.w3schools.com/css/css_positioning.asp) para ver diferentes ejemplos.
 
+## Instrucciones
+
+1. Forkea el repo
+2. Clonar el repo
+3. Realizar los cambios demandados
+4. Commitear y pushear los cambios cada vez que consigas un ejercicio
+
 ## Flotacion
 
 1. Define un DIV para cada caja. Dale estilos hasta que te queden un conjunto de cajas en vertical. Luego, usa adecuadamente _float_ para hacer que todas la cajas _floten_ a la izquierda.
@@ -13,7 +20,7 @@ Los siguientes ejercicios van sobre el posicionamiento CSS. Consulta este [enlac
 
 ## Posicionamiento-fixed
 
-1. El header superior tiene un posicionamiento _fixed_
+1. El header superior tiene un posicionamiento _fixed_ . Fíjate en este [vídeo](https://oscarm.tinytake.com/msc/ODczNTkyN18yMjEzODc0NA) cómo debe quedar.
 
 ## Posicionamiento-sticky
 
