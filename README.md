@@ -11,7 +11,7 @@ Los siguientes ejercicios van sobre el posicionamiento CSS. Consulta este [enlac
 
 ## Flotacion
 
-1. Define un DIV para cada caja. Dale estilos hasta que te queden un conjunto de cajas en vertical. Luego, usa adecuadamente _float_ para hacer que todas la cajas _floten_ a la izquierda.
+1. Define un DIV para cada caja. Dale estilos hasta que te queden un conjunto de cajas en vertical. Luego, usa adecuadamente _float_ para hacer que todas la cajas _floten_ a la izquierda. Revisad este [enlace](https://www.w3schools.com/cssref/pr_class_float.php)
 ![screencapture-mclibre-org-consultar-htmlcss-ejercicios-posicionamiento-flotante-oscar-wilde-oscar-wilde-formateado-html-2023-09-27-08_30_56](https://github.com/omiras/posicionamiento-css-PIMEC/assets/3286458/c0c61e95-08d7-4aeb-b7e6-30574d9bf20a)
 
 ## Posicionamiento-absoluto
